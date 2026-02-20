@@ -1,7 +1,7 @@
-import OTP from "./components/Otp";
+import AutoComplete from "./components/AutoComplete";
 
 function App() {
-  return <OTP otpFields={6} />;
+  return <AutoComplete />;
 }
 
 export default App;
