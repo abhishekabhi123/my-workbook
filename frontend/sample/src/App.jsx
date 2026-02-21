@@ -1,7 +1,7 @@
-import AutoComplete from "./components/AutoComplete";
+import Progress from "./components/Progress";
 
 function App() {
-  return <AutoComplete />;
+  return <Progress />;
 }
 
 export default App;
