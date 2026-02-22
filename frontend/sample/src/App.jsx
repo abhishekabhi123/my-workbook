@@ -1,7 +1,6 @@
-import Progress from "./components/Progress";
-
+import Grid from "./components/Grid";
 function App() {
-  return <Progress />;
+  return <Grid />;
 }
 
 export default App;
