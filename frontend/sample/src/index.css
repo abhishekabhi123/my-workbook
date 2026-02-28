@@ -201,3 +201,10 @@ input {
 .active {
   background-color: #017bfe;
 }
+
+.box {
+  text-align: center;
+  border: 1px solid black;
+  padding: 2rem;
+  margin: 2rem;
+}

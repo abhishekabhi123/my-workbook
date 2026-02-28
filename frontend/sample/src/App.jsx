@@ -1,6 +1,6 @@
-import Grid from "./components/Grid";
+import NestedComments from "./components/NestedComments";
 function App() {
-  return <Grid />;
+  return <NestedComments />;
 }
 
 export default App;
